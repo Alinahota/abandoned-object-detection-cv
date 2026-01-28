@@ -85,5 +85,36 @@ Detailed metrics and comparisons are available in the report.
 
 ---
 
-## 📂 Repository Contents
+
+> ⚠️ **Note:**  
+> The original source code developed during the project is no longer available.  
+> This repository serves as a **research and documentation archive** of the project.
+
+---
+
+## 🔮 Future Work
+
+- Re-implementation using modern object trackers (e.g., YOLOv8 + DeepSORT)
+- Integration with edge devices (Jetson Nano, Raspberry Pi)
+- Multi-camera owner re-identification
+- Real-time alert dashboards
+
+---
+
+## 👩‍💻 Authors
+
+- **Alina Hota**  
+- Radhika Berry  
+- Sarah Khan  
+
+**Supervisor:** Dr. Kapil Dev Tyagi  
+Department of ECE, JIIT Noida
+
+---
+
+## 📜 License
+
+This repository is shared for **academic and research reference purposes only**.  
+Please cite the original authors if using this work.
+
 
